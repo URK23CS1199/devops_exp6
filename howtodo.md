@@ -3,7 +3,8 @@ winget install minikube
 
 # Install Kubectl
 winget install Kubernetes.kubectl
-
+or 
+kubectl config use-context docker-desktop
 
 # Step 1 – Create a deployment
 
